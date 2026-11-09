@@ -4,7 +4,7 @@ This repository has three chosen speed reduction methods
 2) Cycloidal Gear
 3) Capstan Drive
 
-Planetary gear box
+Planetary gear box -m
 Speed reducer that consists of a planet, sun and ring gear, the planet gears orbit the ring gear and the output is then put onto a shaft which is connected to the sun gear 
 
 
