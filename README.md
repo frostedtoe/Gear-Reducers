@@ -1,2 +1,17 @@
 # Gear-Reducers
-This repository has three chosen gear reduction methods
+This repository has three chosen speed reduction methods
+1) Planetary Gearbox
+2) Cycloidal Gear
+3) Capstan Drive 
+
+
+| First Header  |  | Capstan Drive
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
