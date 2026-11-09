@@ -5,13 +5,13 @@ This repository has three chosen speed reduction methods
 3) Capstan Drive 
 
 
-| First Header  |  | Capstan Drive
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Planetary Gearbox  |  | Cycloidal Drive  | Capstan Drive | 
+| ------------- | ------------- | ------------- | ------------- | 
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| First Header  | Second Header | First Header  | Second Header |
+| ------------- | ------------- | ------------- | ------------- | 
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 
